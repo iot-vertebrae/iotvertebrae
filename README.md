@@ -12,3 +12,5 @@ The vertebrae bus is an extenxion of the [UEXT](https://www.olimex.com/Products/
 
 ![Software](img/snapvertebrae.png)
 
+This project will be provided as open-source hardware when the first release is manufactured, checked, and delivered.
+
