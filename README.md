@@ -14,5 +14,5 @@ The vertebrae bus is an extenxion of the [UEXT](https://www.olimex.com/Products/
 
 This project will be provided as open-source hardware.
 
-## [Using IoT Vertebrae](https://provisional-binefa-com.translate.goog/index.php/IoT-Vertebrae?_x_tr_sl=ca&_x_tr_tl=en&_x_tr_hl=es&_x_tr_pto=wapp) 
+## [Using IoT Vertebrae](https://www-binefa-com.translate.goog/index.php/IoT-Vertebrae?_x_tr_sl=ca&_x_tr_tl=en&_x_tr_hl=es&_x_tr_pto=wapp) 
 
